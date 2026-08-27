@@ -224,6 +224,7 @@ a:hover { color: #a06820; text-decoration: underline; }
   margin-bottom: 20px;
 }
 .sidebar__label--dark { color: #5a5448; }
+.sidebar__label--muted { color: #9a8e7c; }
 .sidebar__author-name {
   font-family: 'Cormorant Garamond', serif;
   font-size: 26px;
@@ -241,8 +242,8 @@ a:hover { color: #a06820; text-decoration: underline; }
   text-wrap: pretty;
 }
 .sidebar__contacts { display: flex; flex-direction: column; gap: 10px; }
-.sidebar__contact { font-size: 12px; color: #7a7260; display: flex; align-items: center; gap: 8px; }
-.sidebar__contact-icon { color: #c9a84c; font-size: 14px; }
+.sidebar__contact { font-size: 12px; color: #7a6e5c; display: flex; align-items: center; gap: 8px; }
+.sidebar__contact-icon { color: #c4893a; font-size: 14px; }
 
 .sidebar__divider { height: 1px; background: #cfc9ba; margin-bottom: 40px; }
 
@@ -251,10 +252,10 @@ a:hover { color: #a06820; text-decoration: underline; }
   font-family: 'Cormorant Garamond', serif;
   font-size: 17px;
   font-weight: 400;
-  color: #c9a84c;
+  color: #c4893a;
   margin-bottom: 4px;
 }
-.sidebar-stat__desc { font-size: 12px; color: #5a5448; line-height: 1.5; font-weight: 300; }
+.sidebar-stat__desc { font-size: 12px; color: #9a8e7c; line-height: 1.5; font-weight: 300; }
 
 .books__group-title {
   font-family: 'Cormorant Garamond', serif;
